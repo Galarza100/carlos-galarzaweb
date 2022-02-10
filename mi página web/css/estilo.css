@@ -1,0 +1,55 @@
+body {
+	margin: 0 auto;
+	padding: 0 auto;
+	background-color: #BC5858;
+	font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+a:hover {
+	color: #4786C1;
+}
+
+a.paypal:hover{
+	color: #4786C1;
+}
+
+footer p {
+	text-decoration: overline;
+	text-shadow: 3px 5px 4px #0C1171;
+}
+
+a.paypal {
+	font-family: sans-serif;
+	float: right;
+	padding-right: auto;
+}
+
+a.redes:hover{
+	color: #4786C1;
+
+
+}
+
+.logo-inst {
+	float: left;
+}
+
+.logo-tw {
+	}
+
+footer {
+	margin: 3px;
+	background-color: #2A4E7F;
+	outline: groove 6px #21770D ; 
+	border-radius: 3px;
+
+
+}
+
+footer:hover {
+	background: #938E8E;
+	transition: 1s;
+}
